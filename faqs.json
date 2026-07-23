@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is CodeAlpha?",
+    "answer": "CodeAlpha is a software development company that offers internship programs in fields like AI, Web Development, Data Science, and more."
+  },
+  {
+    "question": "How long is the internship?",
+    "answer": "The internship duration is usually mentioned in your offer letter, typically ranging from 4 to 8 weeks."
+  },
+  {
+    "question": "Is the internship paid?",
+    "answer": "CodeAlpha internships are unpaid, but they provide certificates, letters of recommendation, and job/placement support."
+  },
+  {
+    "question": "How many tasks do I need to complete?",
+    "answer": "You need to complete a minimum of 2 or 3 tasks out of the 4 given tasks to be eligible for the completion certificate."
+  },
+  {
+    "question": "Where do I submit my completed tasks?",
+    "answer": "You must submit your completed tasks through the submission form shared in your respective WhatsApp group."
+  },
+  {
+    "question": "Do I need to post my project on LinkedIn?",
+    "answer": "Yes, you need to post a video explanation of your project on LinkedIn with your GitHub repository link, and tag @CodeAlpha."
+  },
+  {
+    "question": "What should I name my GitHub repository?",
+    "answer": "Your GitHub repository should be named in the format CodeAlpha_ProjectName, for example CodeAlpha_FAQChatbot."
+  },
+  {
+    "question": "Will I get a certificate?",
+    "answer": "Yes, upon successful completion of the minimum required tasks, you will receive a QR verified completion certificate and a unique ID certificate."
+  },
+  {
+    "question": "How can I contact CodeAlpha support?",
+    "answer": "You can contact CodeAlpha via WhatsApp at +91 9336576683 or email at services@codealpha.tech or services.codealpha@gmail.com."
+  },
+  {
+    "question": "Can I get a letter of recommendation?",
+    "answer": "Yes, a letter of recommendation is provided based on your performance during the internship."
+  }
+]
